@@ -1,0 +1,8 @@
+name: PvPEvent
+version: '${project.version}'
+main: me.dodo.pvpevent.PvPEvent
+api-version: 1.18
+prefix: PvP Event
+authors: [ dodo ]
+description: Auto PvP Event.
+website: https://github.com/dodoflix
